@@ -57,6 +57,9 @@ header {
   margin-inline: auto;
   margin-bottom: 53px;
 }
+h1 {
+  color: white;
+}
 .card ul {
   display: flex;
   flex-direction: column;
